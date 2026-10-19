@@ -1,0 +1,2 @@
+print("Hello GitHub! My CS journey starts today.")
+
